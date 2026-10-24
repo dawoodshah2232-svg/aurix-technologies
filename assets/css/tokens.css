@@ -1,0 +1,15 @@
+/* Aurix Technologies — design tokens (generated from replica/design/tokens.json) */
+:root{
+  --navy-900:#081A33; --navy-800:#0A2540; --navy-700:#123A63;
+  --blue-600:#2563EB; --blue-500:#3B82F6;
+  --teal-500:#0EA5A4; --teal-400:#14B8A6;
+  --bg:#F6F8FC; --surface:#FFFFFF; --surface-alt:#EEF2F9; --border:#DCE4F0;
+  --text:#0F1E33; --text-muted:#5B6B82;
+  --success:#16A34A; --warning:#D97706; --danger:#DC2626;
+  --font:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Segoe UI",Helvetica,Arial,sans-serif;
+  --r-sm:8px; --r-md:12px; --r-lg:16px; --r-xl:24px; --r-pill:999px;
+  --shadow-sm:0 1px 3px rgba(10,37,64,.08);
+  --shadow-md:0 8px 24px rgba(10,37,64,.10);
+  --shadow-lg:0 20px 48px rgba(10,37,64,.14);
+  --ease:cubic-bezier(.22,1,.36,1);
+}

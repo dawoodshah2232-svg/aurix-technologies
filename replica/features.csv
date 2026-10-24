@@ -1,0 +1,32 @@
+feature,area,priority,clone,notes
+Home hero + ticker + stats,home,must,yes,Original copy rewritten; ticker is demo data
+Ecosystem diagram (8 products around core),home,must,yes,CSS grid + core panel
+8 product cards,home,must,yes,Links to product pages
+Branded mobile apps section,home,must,yes,Phone-frame CSS mocks
+MT5 plugin suite overview (4 groups),home,must,yes,Links to mt5-plugins page
+Supported platforms carousel,home,must,yes,7 named platforms + more
+Security section (6 items),home,must,yes,Rewritten items
+Testimonials carousel (5),home,must,yes,Original invented quotes; clearly sample wording
+FAQ accordion (7),home,must,yes,Fresh Q&A
+Final CTA band,home,must,yes,Shared across pages
+Forex CRM 8 tabs,forex-crm,must,yes,Clients/Leads/Deposits/KYC/IB/Reports/Settings/Trading
+CRM admin table mock,forex-crm,must,yes,Sample rows only
+Wallet mock,forex-crm,must,yes,Sample balances
+CRM mobile app page,crm-mobile-app,must,yes,Phone mocks + onboarding steps
+Web terminal quotes + order ticket,web-terminal,must,yes,Demo quotes; chart is labelled placeholder
+Mobile trading app page,mobile-app,must,yes,Phone mocks + feature grid
+Social trading feed + leaderboard,social-trading,must,yes,Sample posts + providers
+Copy trading engine table,copy-trading,must,yes,3 sample providers + filters
+PAMM 3 views (investor/manager/admin),pamm-mam,must,yes,Tab switcher + allocation table
+Prop challenge picker + dashboard,prop-firm,must,yes,Picker updates summary text
+Prop leaderboard + championship,prop-firm,must,yes,Sample standings
+MT5 plugins 14 modules in 4 categories,mt5-plugins,must,yes,Accordion deep-dives
+Integrations grouped (platforms/payments/KYC/comms),integrations,must,yes,Text pills not vendor logos
+Licensing 6 jurisdiction tabs,company-formation,must,yes,Stats + bullets per jurisdiction
+Blog index 10 cards,blog,must,yes,Original headlines
+Blog article page,blog,must,yes,Full article body + related cards
+Contact 4-step process + form,contact,must,yes,Front-end only; no backend
+Live price feeds,all,could,no,Out of scope: demo data only
+Real MT5 integration,all,could,no,Out of scope: static site
+Payments / KYC checks,all,could,no,Out of scope: no backend
+User accounts / login,all,could,no,Out of scope: marketing site only
