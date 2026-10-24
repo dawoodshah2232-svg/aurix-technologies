@@ -1,4 +1,4 @@
-# Recon — Aurix Technologies (clean-room structural map)
+# Recon — FxNextTech (clean-room structural map)
 
 Source studied: the public marketing site of a B2B fintech vendor for forex
 brokers and prop firms (reference site supplied by the client). This map

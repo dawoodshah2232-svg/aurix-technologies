@@ -1,15 +1,15 @@
-# Aurix Technologies — clean-room marketing site
+# FxNextTech — clean-room marketing site
 
-A static marketing website for **Aurix Technologies**, a B2B fintech
+A static marketing website for **FxNextTech**, a B2B fintech
 software vendor for forex brokers and prop firms. Built clean-room from a
 structural map of a reference vendor site: same *kind* of site map and
 section structure, with every sentence, name, visual and brand written fresh.
 No code, copy, logos, images or branding were taken from the reference.
 
 ## Brand
-- Name: Aurix Technologies
+- Name: FxNextTech
 - Palette: deep navy `#0A2540`, electric blue `#2563EB`, teal `#0EA5A4`
-- Font: system sans stack. Icons: hand-drawn inline SVG. No external images.
+- Font: system sans stack. Icons: hand-drawn inline SVG. Images: AI-generated brand visuals in assets/images/.
 
 ## Pages (15)
 Home, Forex CRM, CRM Mobile App, Web Trading Terminal, Mobile Trading App,
@@ -19,7 +19,7 @@ Contact.
 
 ## Run locally
 ```sh
-cd aurix-technologies
+cd .  # from inside the project folder
 python3 -m http.server 8000
 # open http://localhost:8000/
 ```
@@ -27,7 +27,7 @@ No build step, no backend, no dependencies. The contact form is front-end
 only — it shows a success message and sends nothing anywhere.
 
 ## Contacts (PLACEHOLDER — replace before any real launch)
-- Email: hello@aurixtech.example
+- Email: hello@fxnexttech.example
 - Phone: +971 50 000 0000
 - Address: Office 1401, Al Shatha Tower, Dubai Internet City, Dubai, UAE (placeholder)
 

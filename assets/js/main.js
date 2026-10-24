@@ -1,4 +1,4 @@
-/* Aurix Technologies — shared interactions. No dependencies. */
+/* FxNextTech — shared interactions. No dependencies. */
 (function () {
   'use strict';
 

@@ -1,4 +1,4 @@
-# Architecture — Aurix Technologies
+# Architecture — FxNextTech
 
 ## Stack
 Static HTML/CSS/JS only — no build step, no framework, no backend.

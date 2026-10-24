@@ -1,4 +1,4 @@
-# Build log — Aurix Technologies
+# Build log — FxNextTech
 
 ## 2026-10-25 — initial build (static site, clean-room)
 - Tokens: navy #0A2540 / blue #2563EB / teal #0EA5A4; system font stack; radii, shadows, spacing scale. `replica/design/tokens.json` + `assets/css/tokens.css`.
